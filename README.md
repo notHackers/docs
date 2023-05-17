@@ -16,7 +16,7 @@ Remote IT consists of two parts:
 ### C&D
 C&D is a solution to a surprising amount of 'problems'
 It consists of an Arduino Leonardo clone, an SD card reader, and some other bits and bobs to make it more functional.
-See [[C&D]] for more.
+See ![](C&D) for more.
 ![](https://lh3.googleusercontent.com/CWSZCvjOvp3raG0yF6XeT9lMUMgN93Qm2GI2n2o93oCgjTXFbJxCbUyHnW9byMG6g8XQF0cLKxZeMMiKJWJs3XZ_V-E2c9bb5tJmMN8s4K7F7ndgUiH2AbsCNkLB_ppZd429RqNyCMx8iHMirLpvXCBAGg=s2048)
 ![](https://lh3.googleusercontent.com/lh-y49nfOBJRSWrGP48lQuRaHMS8ZlyzDeOmxupuP-vfbBSBmvFDgLjx06EcPPQIWe_Jh-I1LIBkrwIXISUzmiG0PaFmUwUQAaVR9Lyx8I2z-WwGiLX3W5iAnWQZqtCX3Vx5ZRFhALyN8sbfEkgwO0XK-A=s2048)
 

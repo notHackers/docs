@@ -28,6 +28,7 @@ ROT is a set of 3 1/2 progams:
 	- The installer installs the client
 	- The client connects to the server through REST requests
 ![](https://lh6.googleusercontent.com/dRzAbrF8qJS3B9qHRdK0QCs-fBicgNSC_ZURXBZiwlR9tOSDxCRKwbQ8qdusOQU9tIghuE9MgQAbfclXH6kBb3H05vOT_ySeawsWEcjadDU7dKDrFQcV3RbdDkDC-l5qlQGzOALb_PbTX1Pmzq-gT39jBQ=s2048)
+![[Pasted image 20230516231008.png]]
 See [this](https://github.com/notHackers/rot) for more info
 ## How to use it
 

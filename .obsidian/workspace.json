@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f87c2c34669f2e36",
@@ -147,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5e959313f92129d7",
+  "active": "4c486bafbac4362c",
   "lastOpenFiles": [
     "C&D.md",
     "README.md",
